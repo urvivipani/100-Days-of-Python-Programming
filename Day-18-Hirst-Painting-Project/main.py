@@ -44,7 +44,7 @@ screen = Screen()
 screen.exitonclick()
 
 
-''' Code to extract colors from an image'
+''' Code to extract colors from an image'''
 
 # colors = colorgram.extract('image.jpg',45)
 
