@@ -2,7 +2,7 @@
 
 ## Creating a Hirst Painting using the Turtle module in Python
 
-### Concepts Applied:
+### Concepts Learned:
 - Understanding Turtle Graphics and How to Use the Documentation
 - Importing Modules, Installing Packages, and Working with Aliases
 - Python Tuples and How to Generate Random RGB Colours
