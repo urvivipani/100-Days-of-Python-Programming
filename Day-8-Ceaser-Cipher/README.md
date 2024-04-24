@@ -2,7 +2,7 @@
 
 ## Concepts Learned
 - Functions with inputs
-- Fucntions having Multiple Inputs
-- Positonal vs Keyword Arguements
+- Functions having Multiple Inputs
+- Positional vs Keyword arguments
 
   
